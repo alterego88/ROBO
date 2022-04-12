@@ -1,4 +1,3 @@
-This product was coded and provided to you by : https://nft-professor.sellix.io/
 
 Guide: 
 In order to use this website, you need to edit the settings.js file. 
