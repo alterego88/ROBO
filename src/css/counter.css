@@ -3,8 +3,7 @@ body {
 }
 
 .counter {
-   display: table-cell;
-  
+
   font-size:20px;
   width:200px;
   vertical-align: middle;
