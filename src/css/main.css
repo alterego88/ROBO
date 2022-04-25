@@ -17,7 +17,7 @@ html {
     position: relative;
     max-width: 475px;
     padding: 32px;
-    margin: 20px;
+  
     border-radius: 10px;
     color: #f1f1f1;
     font-family: "Lexend Deca", sans-serif;
@@ -36,7 +36,7 @@ html {
 
 #claim-text-wrapper .social_medias {
     position: absolute;
-    top: -50px;
+    top: 0px;
     left: 50%;
     --webkit-transform: translateX(-50%);
     transform: translateX(-50%);
