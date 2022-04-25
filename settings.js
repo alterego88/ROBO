@@ -9,7 +9,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "Tigerbob",
+    name: "- Tigerbob",
     date: "25.04.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
