@@ -3,9 +3,24 @@ body {
 }
 
 .counter {
-  display: table-cell;
-  margin:1.5%;
-  font-size:50px;
-  width:200px;
-  vertical-align: middle;
+    display: --webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    --webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    --webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    --webkit-box-orient: horizontal;
+    --webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-bottom: 32px;
+    background: #262727;
+    --webkit-box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
+    box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
+    padding: 8px 20px;
+    border-radius: 10px;
+
 }
