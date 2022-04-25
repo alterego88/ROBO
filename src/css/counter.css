@@ -1,9 +1,5 @@
 body {
-  color: black;
-  max-width:800px;
-  margin: 100px auto 0;
-  text-align: center;
-  display: table;
+
 }
 
 .counter {
