@@ -22,7 +22,7 @@ const collectionInfo = {
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)
-        image: "tiger-texture.jpg", // Image for image type or video preview for video type (image befor video load)
+        image: "background.jpg", // Image for image type or video preview for video type (image befor video load)
         video: "background.mp4", // If you don't use video type, you can ignore this line
         color: "#4E4E6D", // If you don't use color type, you can ignore this line
     }
@@ -34,10 +34,10 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.25,
-    totalSupply: 1000,
+    price: 0.15,
+    totalSupply: 5500,
     minUnits: 1,
-    maxUnits: 20,
+    maxUnits: 10,
     askMintLoop: true,
 }
 
