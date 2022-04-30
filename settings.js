@@ -17,7 +17,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/username_here",
     },
     medias: {
-        preview: "tg-gig.gif",
+        preview: "ezgif-3-31d12fa9dc.gif",
         favicon: "icon.ico",
     },
     background: {
