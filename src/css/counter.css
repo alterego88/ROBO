@@ -49,7 +49,7 @@
 }
 #toast-container>div {
 	padding: 15px 15px 15px 50px;
-	width: 400px!important;
+	
 }
 #toast-container>.toast-info{
     background: black !important;
