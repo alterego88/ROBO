@@ -10,7 +10,7 @@ $('.counter').each(function() {
 
   {
 
-    duration: 149000,
+    duration: 1490000,
     easing:'linear',
     step: function() {
       $this.text(Math.floor(this.countNum));
