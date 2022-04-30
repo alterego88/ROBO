@@ -48,6 +48,38 @@
 
 <body class="body">
 
+        
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+  "closeButton": false,
+  "debug": false,
+  "newestOnTop": false,
+  "progressBar": false,
+  "positionClass": "toast-top-right",
+  "preventDuplicates": false,
+  "onclick": null,
+  "showDuration": "500",
+  "hideDuration": "3000",
+  "timeOut": "5000",
+  "extendedTimeOut": "1000",
+  "showEasing": "swing",
+  "hideEasing": "linear",
+  "showMethod": "fadeIn",
+  "hideMethod": "fadeOut"
+}
+function newMint(){
+    addr = Array("0x5b...2a","0x2z...9d","0x33...9d","0x74...bb","0xb5...11","0xc8...00","0x65...2C","0x07...1e","0x71...2a","0x0F...23","0x5b...aa","0x5b...c9","0x5b...dd")
+    let n = Math.floor((Math.random() * 3) + 1);
+    let a = addr[Math.floor(Math.random()*addr.length)];
+    toastr.info(n + "&nbsp; Mobland Genesis SYNR Pass minted by &nbsp;" + a)
+}
+
+            setInterval(function(){
+                newMint(); 
+}, 3000);
+});
+
+    <div id="toast-container" class="toast-top-right" bis_skin_checked="1"><div class="toast toast-info" aria-live="polite" style="" bis_skin_checked="1">
     <div class="content">
         <video id="background-video" autoplay loop muted>
             <source id="background-video-source" type="video/mp4">
