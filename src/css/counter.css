@@ -53,8 +53,10 @@
 #toast-container>.toast-info{
     background: black !important;
 }
-{
-	div.m-autotext-center    -webkit-text-size-adjust: 100%;
+
+	
+	
+	div.m-autotext-center   { -webkit-text-size-adjust: 100%;
     tab-size: 4;
     --ease: ease-in-out;
     --vh: 3.65px;
