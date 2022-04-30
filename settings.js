@@ -10,7 +10,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "Moonray",
+    name: "LAND Sale",
     date: "30.04.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
@@ -21,7 +21,7 @@ const collectionInfo = {
         favicon: "icon.png",
     },
     background: {
-        type: "image", // Supported types: image, video, color (use image for gif)
+        type: "Video", // Supported types: image, video, color (use image for gif)
         image: "background.jpg", // Image for image type or video preview for video type (image befor video load)
         video: "background.mp4", // If you don't use video type, you can ignore this line
         color: "#4E4E6D", // If you don't use color type, you can ignore this line
@@ -34,8 +34,8 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.15,
-    totalSupply: 5500,
+    price: 305,
+    totalSupply: 55000,
     minUnits: 1,
     maxUnits: 10,
     askMintLoop: true,
