@@ -110,18 +110,18 @@
     text-transform: uppercase;
     line-height: .8;
     font-size: 80px;
-.header-title-nav-wrapper {
+.header-title {
     display: flex;
     flex-wrap: nowrap;
     flex: 1 0 67%;
     align-items: center;
 		}
-.header-title-logo img {
+.header-title img {
     width: auto;
     max-width: 100%;
     max-height: 107px;
 }
-.header-title-logo a {
+.header-title a {
     display: inline-block;
     max-width: 100%;
     max-height: 107px;
