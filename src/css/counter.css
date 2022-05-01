@@ -110,9 +110,9 @@
     text-transform: uppercase;
     line-height: .8;
     font-size: 80px;
-}
-.header-title-logo a {
-    display: inline-block;
+
+.header-title-logo img {
+    width: auto;
     max-width: 100%;
     max-height: 107px;
 }
