@@ -10,7 +10,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "GENESIS MINT",
+    name: "Clone Apes",
     date: "1.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
@@ -34,10 +34,10 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.3,
-    totalSupply: 1753,
+    price: 0.08,
+    totalSupply: 8888,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 5,
     askMintLoop: true,
 }
 
