@@ -3,5 +3,7 @@
    "author_url": "https://cloneapes.netlify.app",
    "provider_name": "This is a message from APE CLONE NFTS.",
    "provider_url": "https://cloneapes.netlify.app"
-   "thumbnail": "https://images.squarespace-cdn.com/content/v1/62444c5725e5f84495bd9eee/cfb3bf5c-7378-4e59-8cdf-7ea5151f3868/Grumpy+%284%29.png?format=1500w"
+   "thumbnail": {
+            "url": "https://images.squarespace-cdn.com/content/v1/62444c5725e5f84495bd9eee/cfb3bf5c-7378-4e59-8cdf-7ea5151f3868/Grumpy+%284%29.png?format=1500w"
+        }
 }
