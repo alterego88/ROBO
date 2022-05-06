@@ -18,7 +18,7 @@ const collectionInfo = {
     },
     medias: {
         preview: "tg-gif.gif",
-        favicon: "icon.ico",
+        favicon: "icon.png",
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)
