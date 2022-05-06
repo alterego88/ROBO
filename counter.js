@@ -13,7 +13,7 @@ $('.counter').each(function() {
     duration: 90000,
     easing:'linear',
     step: function() {
-      $this.text(Math.floor(this.countNum));
+      $this.text(Math.andom()*(5-1))+5);
     },
     complete: function() {
       $this.text(this.countNum);
