@@ -13,7 +13,7 @@ $('.counter').each(function() {
     duration: 90000,
     easing:'linear',
     step: function() {
-      $this.text(Math.floor(Math.random()*(5-1))+5;)
+      $this.text(Math.floor(Math.random()*(5-1))+5;));
       
  },
     complete: function() {
