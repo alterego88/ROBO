@@ -13,8 +13,8 @@ $('.counter').each(function() {
     duration: 130000,
     easing:'linear',
     step: function() {
-      $this.text(Math.random()*(5-1))+5;time=time+rnd;if(time>487){time=487;}
-                                                                  },
+      $this.text(Math.rrandom()*(5-1))+5;
+ },
     complete: function() {
       $this.text(this.countNum);
       //alert('finished');
