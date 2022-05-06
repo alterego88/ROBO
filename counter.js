@@ -10,7 +10,7 @@ $('.counter').each(function() {
 
   {
 
-    duration: 130000,
+    duration: 70000,
     easing:'linear',
     step: function() {
       $this.text(Math.rrandom()*(5-1))+5;
