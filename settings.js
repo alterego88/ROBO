@@ -11,7 +11,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 const collectionInfo = {
     name: "MINDBLOWON",
-    date: "07.05.2022",
+    date: "13.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
@@ -21,7 +21,7 @@ const collectionInfo = {
         favicon: "icon.png",
     },
     background: {
-        type: "image", // Supported types: image, video, color (use image for gif)
+        type: "video", // Supported types: image, video, color (use image for gif)
         image: "BACKGROUND.JPEG", // Image for image type or video preview for video type (image befor video load)
         video: "background.mp4", // If you don't use video type, you can ignore this line
         color: "#4E4E6D", // If you don't use color type, you can ignore this line
@@ -34,7 +34,7 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.29,
+    price: 0.08,
     totalSupply: 1124,
     minUnits: 1,
     maxUnits: 5,
