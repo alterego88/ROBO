@@ -37,7 +37,7 @@ const mintInfo = {
     price: 0.09,
     totalSupply: 300,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 5,
     askMintLoop: true,
 }
 
